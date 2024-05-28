@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heyitsadi
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on any projects
+- 💞️ I’m looking to collaborate on projects in machine learning
 - 📫 How to reach me on my Linkedin
 
 <!---
