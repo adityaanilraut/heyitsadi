@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heyitsadi
+- 👋 Hi, I’m @adityaanilraut
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects in machine learning
